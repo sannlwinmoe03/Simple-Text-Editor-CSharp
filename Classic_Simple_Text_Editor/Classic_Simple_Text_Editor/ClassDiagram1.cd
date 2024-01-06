@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Classic_Simple_Text_Editor.classic_simple_text__editorDataSet" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAAJABAAAQAAAAAgCQBgAAAAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classic_Simple_Text_Editor.classic_simple_text_editor" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DAAAAAAAAwABAgpChEAMQAIQQAgCQBgEgEECEAEAhFA=</HashCode>
+      <FileName>classic_simple_text_editor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classic_Simple_Text_Editor.Form1" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classic_Simple_Text_Editor.frmHandler_option" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAQEAgASBAAAAgAACAQEAGgQECAAAAACAAQAAYIAA=</HashCode>
+      <FileName>Handler_option.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classic_Simple_Text_Editor.frmkeyregister" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAICCAAAAgQACAAAASADEAARAAAACABQAAAAA=</HashCode>
+      <FileName>KeyRegister.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classic_Simple_Text_Editor.frmLoginhandler" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAACBACBAAAASAAIACAQCAAIAQAEEQQAEAAAA=</HashCode>
+      <FileName>Loginhandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classic_Simple_Text_Editor.frmMain_Windows" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AALIAIAgACoAAABIACSAACICAIAVwFASCAIAhDCAEIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classic_Simple_Text_Editor.Open_File" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAIAAACAAAAAAAACAAAACAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Open_File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classic_Simple_Text_Editor.Program" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classic_Simple_Text_Editor.classic_simple_text_editorTableAdapters.handler1TableAdapter" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAQGAAEDAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+      <FileName>classic_simple_text_editor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classic_Simple_Text_Editor.classic_simple_text_editorTableAdapters.KeywordsTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEBAACAcgIAAAAAAAACEICAAACAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classic_Simple_Text_Editor.classic_simple_text_editorTableAdapters.File_TableTableAdapter" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classic_Simple_Text_Editor.classic_simple_text_editorTableAdapters.File_TypeTableAdapter" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classic_Simple_Text_Editor.classic_simple_text_editorTableAdapters.PreferencesTableAdapter" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classic_Simple_Text_Editor.classic_simple_text_editorTableAdapters.PreferenceTableAdapter" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classic_Simple_Text_Editor.classic_simple_text_editorTableAdapters.Preference1TableAdapter" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classic_Simple_Text_Editor.classic_simple_text_editorTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAABCAABABABAEBgAAIMCAgAAADgAACAAQAAQgEBAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classic_Simple_Text_Editor.Properties.Resources" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAgAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classic_Simple_Text_Editor.Properties.Settings" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAIAAAAAABAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
